@@ -1,0 +1,164 @@
+body {
+  color: #eff1f6;
+  font-family: 'Roboto Condensed';
+  background-color: #131722;
+}
+
+ .buttons a {
+  color: #131722;
+  font-weight: bold;
+}
+
+img {
+      height: 40%;
+      width: 40%;
+}
+
+a {
+
+  color: #aa8254;
+
+}
+
+.specificbold {
+
+  color: #aa8254;
+
+}
+
+header {
+  background-color: #aa8254;
+  padding: 10px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+.tablink {
+  background-color: #d8d0bc;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 10px;
+  font-size: 17px;
+  width: 20%;
+  margin-top: -1%;
+  margin-bottom: 0.5%;
+}
+
+
+.specificcenter {
+
+  text-align: center;
+
+}
+
+.specificcenter #projectidea {
+
+  text-align: center;
+
+}
+
+
+h2 {
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.aboutparent {
+
+  text-align: right;
+  width: 700px;
+  height: 700px;
+  margin: 0 auto;
+  margin-top: 2%;
+  margin-bottom: -15%;
+
+}
+
+.golddots {
+
+   border: 2px dashed #aa8254;
+   width: 20%;
+
+}
+
+.aboutmesection {
+
+  width: 700px;
+  height: 700px;
+  margin: 0 auto;
+  margin-top: 1%;
+  display: inline-block;
+
+
+}
+
+.aboutmebody p {
+
+  overflow: inherit;
+  min-width: 30%;
+  min-height: 30px;
+  max-width: 40%;
+  max-height: 750px;
+  text-overflow: ellipsis;
+  display: block;
+  text-align: right;
+
+}
+
+.aboutmebody #aboutme {
+
+  overflow: inherit;
+  min-width: 30%;
+  min-height: 30px;
+  max-width: 40%;
+  max-height: 750px;
+  text-overflow: ellipsis;
+  display: block;
+  text-align: right;
+}
+
+
+.aboutmebody img {
+  float: right;
+  margin-left: 5%;
+
+}
+
+#selfphoto {
+
+  width: 330px;
+  height: 330px;
+
+}
+
+.resultbutton {
+  background-color: #eff1f6;
+  color: #131722;
+  cursor: pointer;
+  padding: 10px;
+  width: 10%;
+  text-align: center;
+  font-size: 15px;
+  transition: 0.4s;
+  margin: 0 auto;
+  display: block;
+  font-weight: bold;
+
+}
+
+.active, .resultbutton:hover {
+  background-color: #aa8254;
+  color: #eff1f6;
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: #131722;
+  overflow: hidden;
+  text-align: center;
+}
